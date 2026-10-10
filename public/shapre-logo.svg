@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 112" role="img" aria-labelledby="title">
+  <title id="title">Shapre</title>
+  <rect width="420" height="112" rx="24" fill="#0b0c0e"/>
+  <path d="M38 40c16-18 37-18 53 0v32c-16 18-37 18-53 0z" fill="none" stroke="#c5f47b" stroke-width="8"/>
+  <path d="M54 38v36m20-36v36" stroke="#c5f47b" stroke-width="6" stroke-linecap="round"/>
+  <text x="116" y="75" fill="#f5f5f7" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-3">shapre</text>
+  <circle cx="314" cy="70" r="5" fill="#c5f47b"/>
+</svg>

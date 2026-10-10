@@ -1,0 +1,410 @@
+[
+  {
+    "demo_persona_id": "0f7d4a8d-9d69-501f-b819-e94b2cebc63c",
+    "slug": "amara",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/amara/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 14134,
+      "sha256": "9622a354d48984cbb95ff5cd29143b066b209f7830d9703fe1c83b5b9c0009f0",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "0f7d4a8d-9d69-501f-b819-e94b2cebc63c",
+    "slug": "amara",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/amara/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 147476,
+      "sha256": "e467e5b4996106967fc5f655fa1c81cefa2456b330bc66f16442d9c3b8874d4b",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "0f7d4a8d-9d69-501f-b819-e94b2cebc63c",
+    "slug": "amara",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/amara/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 32264,
+      "sha256": "176245ec9c2ab9a0e7725ede59f5e10cfeaae9f17688e30ec3ee11ce73ab9ce9",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "0f7d4a8d-9d69-501f-b819-e94b2cebc63c",
+    "slug": "amara",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/amara/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 326713,
+      "sha256": "e637319cff8e6a163d004bbbc1fe6018794596646520ae69ad243ad303330230",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "8f7912a6-a922-5b90-a538-2113aac8c1c0",
+    "slug": "malik",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/malik/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 13366,
+      "sha256": "c611206066c31e5f4bd2abe74c8d7c0a8d673e198b5088205c71633227e0dddc",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "8f7912a6-a922-5b90-a538-2113aac8c1c0",
+    "slug": "malik",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/malik/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 93362,
+      "sha256": "5f672b6d96b2c1c4c39fb6a118301d0e56b8ad40ed79eaee933c479d1d337301",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "8f7912a6-a922-5b90-a538-2113aac8c1c0",
+    "slug": "malik",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/malik/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 26786,
+      "sha256": "300a25b7b2b112f5204636cc8392c29dd68cb9d1ba8ca68cdcb8f560852c7c66",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "8f7912a6-a922-5b90-a538-2113aac8c1c0",
+    "slug": "malik",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/malik/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 244873,
+      "sha256": "aa84a5203f25da0998067d411ad852fe5a6d74796989f5afde539dc03712193d",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "6b12307a-cc0e-52c3-bddf-8bad881b5157",
+    "slug": "hana",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/hana/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 9754,
+      "sha256": "c29ccf0d6d63b68e6ae0df6aeee134566e571cbc5d0427e1525592b446bc4dc8",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "6b12307a-cc0e-52c3-bddf-8bad881b5157",
+    "slug": "hana",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/hana/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 78328,
+      "sha256": "04214aa98f74d4b9827aac2b0b19041a70b13889851f1a0230419a97c1424085",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "6b12307a-cc0e-52c3-bddf-8bad881b5157",
+    "slug": "hana",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/hana/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 19952,
+      "sha256": "e4dd4a8945e2f863dfe48b296598156b52bb748e479f72c18997fcb59fd740bd",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "6b12307a-cc0e-52c3-bddf-8bad881b5157",
+    "slug": "hana",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/hana/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 225393,
+      "sha256": "356eeaec6d0b9e6e707a109375560624f91476ca1910e71b66056e8103996538",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "a133d8cb-d869-5a9a-9332-265df86f0393",
+    "slug": "nova",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/nova/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 21578,
+      "sha256": "9ba31b94eb03cfbe49947d2f674d79b5cd2c42d9fa299425c19243351d82873b",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "a133d8cb-d869-5a9a-9332-265df86f0393",
+    "slug": "nova",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/nova/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 122430,
+      "sha256": "079d053a98b1a4cff08864ac75903b5c98c93edcb46e5fb6b6b2880558c5a711",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "a133d8cb-d869-5a9a-9332-265df86f0393",
+    "slug": "nova",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/nova/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 40536,
+      "sha256": "47ffec22b184270b995c3836c7fba73e3d2f516ec3b0fb7050f84e1f97bf842b",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "a133d8cb-d869-5a9a-9332-265df86f0393",
+    "slug": "nova",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/nova/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 301501,
+      "sha256": "2770cee33374354044a928b88c4e9a29518e0ff38f7a578e4c9f2ee0b17decd6",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "9d04dfae-5049-5275-af75-d41ce8b98053",
+    "slug": "atlas",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/atlas/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 25402,
+      "sha256": "aaacfc000cd0a3df96279f300e3dd3c4cb4dadea6ad07654af599509157fe1bf",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "9d04dfae-5049-5275-af75-d41ce8b98053",
+    "slug": "atlas",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/atlas/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 160294,
+      "sha256": "ca64f8d13a8c5d77d65d874e2eefa8fa05d3b60cabd09f74b26dbe3a2fa759d1",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "9d04dfae-5049-5275-af75-d41ce8b98053",
+    "slug": "atlas",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/atlas/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 48710,
+      "sha256": "23cd86d812777fadc78612e72a8833ffca1ef2898cb11475be2827c6114063c5",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "9d04dfae-5049-5275-af75-d41ce8b98053",
+    "slug": "atlas",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/atlas/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 348256,
+      "sha256": "334e036aa3bcd381660d16be6238b9686515559a47bc8902f03a8258519c0dbe",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "eb20d424-f5f0-5af3-acdd-e927aae4d942",
+    "slug": "pixel",
+    "asset_type": "avatar",
+    "role": "thumbnail",
+    "storage_path": "/demos/pixel/thumbnail.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 384,
+      "height": 384,
+      "bytes": 16640,
+      "sha256": "6eb0f11f1d0a5b76a417427c708ced59480cc6d5d62cf721b6cc4ad303c6cb1b",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "eb20d424-f5f0-5af3-acdd-e927aae4d942",
+    "slug": "pixel",
+    "asset_type": "avatar",
+    "role": "preview",
+    "storage_path": "/demos/pixel/preview.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 896,
+      "height": 896,
+      "bytes": 131906,
+      "sha256": "6e8227eb8157c7799739b09c151fef78098ce4d731cfac7018e6c8c29f5896a1",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "eb20d424-f5f0-5af3-acdd-e927aae4d942",
+    "slug": "pixel",
+    "asset_type": "avatar",
+    "role": "studio",
+    "storage_path": "/demos/pixel/studio.webp",
+    "mime_type": "image/webp",
+    "metadata": {
+      "width": 512,
+      "height": 512,
+      "bytes": 34982,
+      "sha256": "630df74c6b088f10c16a9a42d86ff3fe2d21d313e17f527ad67f355e70e11658",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  },
+  {
+    "demo_persona_id": "eb20d424-f5f0-5af3-acdd-e927aae4d942",
+    "slug": "pixel",
+    "asset_type": "image_source",
+    "role": "face_source",
+    "storage_path": "/demos/pixel/face-source.jpg",
+    "mime_type": "image/jpeg",
+    "metadata": {
+      "width": 1024,
+      "height": 1024,
+      "bytes": 317720,
+      "sha256": "92edb1908edcf7b5c5fe51782569d908ea345c372160cc56398b739e9f786a21",
+      "synthetic": true,
+      "adult": true,
+      "asset_bundle_version": 1
+    }
+  }
+]

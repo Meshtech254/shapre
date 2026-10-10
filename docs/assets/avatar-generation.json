@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "amara",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Amara, an entirely fictional synthetic adult Black woman aged around 32, warm professional creator, rich dark skin, natural sculpted coily hair, confident gentle smile, simple charcoal tailored jacket. Photorealistic editorial headshot, front facing with both eyes clear, entire head and shoulders visible, unobstructed face, realistic skin detail, soft neutral key light with subtle warm rim light, dark charcoal studio backdrop. Distinct original face, no resemblance to any celebrity or identifiable real person. Polished usable identity portrait, NOT a concept card or placeholder. Image only: no text, logos, frames, watermark or collage. Save the generated image for use as a project asset.",
+    "source_reference": "/demos/amara/face-source.jpg",
+    "thumbnail": "/demos/amara/thumbnail.webp",
+    "preview": "/demos/amara/preview.webp",
+    "studio": "/demos/amara/studio.webp"
+  },
+  {
+    "slug": "malik",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Malik, fictional adult Black man around 30, modern livestream creator, close cropped textured hair, neatly trimmed beard, deep brown skin, confident friendly expression, black casual bomber jacket, cool teal rim lighting. Style: photorealistic editorial headshot. Front facing or very slight angle, entire head and shoulders visible, both eyes clear, unobstructed recognizable individual face. Soft clear key lighting, dark charcoal studio backdrop, subtle tasteful rim lighting. Visually distinct, original fictional adult identity; no celebrity resemblance, no real identifiable people, no copyrighted franchise characters. A finished usable avatar portrait, not a concept layout or placeholder. Image only, no text, frames, logos, watermark or collage.",
+    "source_reference": "/demos/malik/face-source.jpg",
+    "thumbnail": "/demos/malik/thumbnail.webp",
+    "preview": "/demos/malik/preview.webp",
+    "studio": "/demos/malik/studio.webp"
+  },
+  {
+    "slug": "hana",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Hana, fictional adult East Asian woman around 30, polished contemporary creator, shoulder length straight dark hair tucked behind ears, clean black crew neck top, poised approachable expression, neutral silver soft light. Style: photorealistic editorial headshot. Front facing or very slight angle, entire head and shoulders visible, both eyes clear, unobstructed recognizable individual face. Soft clear key lighting, dark charcoal studio backdrop, subtle tasteful rim lighting. Visually distinct, original fictional adult identity; no celebrity resemblance, no real identifiable people, no copyrighted franchise characters. A finished usable avatar portrait, not a concept layout or placeholder. Image only, no text, frames, logos, watermark or collage.",
+    "source_reference": "/demos/hana/face-source.jpg",
+    "thumbnail": "/demos/hana/thumbnail.webp",
+    "preview": "/demos/hana/preview.webp",
+    "studio": "/demos/hana/studio.webp"
+  },
+  {
+    "slug": "nova",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Nova, original adult female cyborg, anatomically distinct humanlike expressive face with pale cool synthetic skin, elegant white short hair, intricate metallic temple panels and luminous violet/cyan mechanical seams, futuristic black collar, calm intelligence. Style: premium cinematic realistic 3D character portrait. Front facing or very slight angle, entire head and shoulders visible, both eyes clear, unobstructed recognizable individual face. Soft clear key lighting, dark charcoal studio backdrop, subtle tasteful rim lighting. Visually distinct, original fictional adult identity; no celebrity resemblance, no real identifiable people, no copyrighted franchise characters. A finished usable avatar portrait, not a concept layout or placeholder. Image only, no text, frames, logos, watermark or collage.",
+    "source_reference": "/demos/nova/face-source.jpg",
+    "thumbnail": "/demos/nova/thumbnail.webp",
+    "preview": "/demos/nova/preview.webp",
+    "studio": "/demos/nova/studio.webp"
+  },
+  {
+    "slug": "atlas",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Atlas, original adult masculine cybernetic avatar, broad strong dark gunmetal face with visible sculpted humanlike facial anatomy, cropped brushed steel hair, detailed machined bronze jaw accents, subdued amber illuminated circuitry, futuristic armored collar. Style: premium cinematic realistic 3D character portrait. Front facing or very slight angle, entire head and shoulders visible, both eyes clear, unobstructed recognizable individual face. Soft clear key lighting, dark charcoal studio backdrop, subtle tasteful rim lighting. Visually distinct, original fictional adult identity; no celebrity resemblance, no real identifiable people, no copyrighted franchise characters. A finished usable avatar portrait, not a concept layout or placeholder. Image only, no text, frames, logos, watermark or collage.",
+    "source_reference": "/demos/atlas/face-source.jpg",
+    "thumbnail": "/demos/atlas/thumbnail.webp",
+    "preview": "/demos/atlas/preview.webp",
+    "studio": "/demos/atlas/studio.webp"
+  },
+  {
+    "slug": "pixel",
+    "source_width": 1254,
+    "source_height": 1254,
+    "generator": "Built-in image_gen",
+    "prompt": "Create one premium square bust portrait avatar for Shapre, a dark creator streaming platform. Subject: Pixel, original clearly adult playful 3D cartoon creator, round expressive face, warm terracotta skin, big friendly eyes, bold violet quiff hair, confident playful grin, teal hoodie, unique original design with sophisticated proportions. Style: premium stylized 3D animation character render. Front facing or very slight angle, entire head and shoulders visible, both eyes clear, unobstructed recognizable individual face. Soft clear key lighting, dark charcoal studio backdrop, subtle tasteful rim lighting. Visually distinct, original fictional adult identity; no celebrity resemblance, no real identifiable people, no copyrighted franchise characters. A finished usable avatar portrait, not a concept layout or placeholder. Image only, no text, frames, logos, watermark or collage.",
+    "source_reference": "/demos/pixel/face-source.jpg",
+    "thumbnail": "/demos/pixel/thumbnail.webp",
+    "preview": "/demos/pixel/preview.webp",
+    "studio": "/demos/pixel/studio.webp"
+  }
+]

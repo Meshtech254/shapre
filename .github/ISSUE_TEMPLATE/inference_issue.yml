@@ -1,0 +1,25 @@
+name: Model or inference issue
+description: Report a worker, model, or media pipeline issue
+title: "inference: "
+labels: [inference]
+body:
+  - type: markdown
+    attributes:
+      value: Do not attach model weights, private media, API keys, output URLs, or unredacted logs.
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Inference mode
+      options: [mock, local, remote]
+    validations:
+      required: true
+  - type: input
+    id: worker
+    attributes:
+      label: Worker and model versions
+  - type: textarea
+    id: details
+    attributes:
+      label: Behavior and sanitized reproduction steps
+    validations:
+      required: true

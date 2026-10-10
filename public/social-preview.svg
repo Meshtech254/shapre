@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Shapre — Open source AI streaming persona</title>
+  <desc id="desc">Turn a webcam and microphone into a live AI persona with Shapre.</desc>
+  <defs><linearGradient id="glow" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#c5f47b" stop-opacity=".3"/><stop offset="1" stop-color="#0b0c0e" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="#0b0c0e"/><circle cx="950" cy="150" r="450" fill="url(#glow)"/>
+  <rect x="86" y="78" width="58" height="58" rx="16" fill="none" stroke="#c5f47b" stroke-width="5"/><path d="M104 91v32m22-32v32" stroke="#c5f47b" stroke-width="4" stroke-linecap="round"/>
+  <text x="168" y="124" fill="#f5f5f7" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700">shapre</text>
+  <text x="86" y="290" fill="#f5f5f7" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700">Open source AI avatars</text>
+  <text x="86" y="376" fill="#f5f5f7" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700">for live streaming</text>
+  <text x="90" y="458" fill="#b8bbc1" font-family="Arial,Helvetica,sans-serif" font-size="29">Webcam persona · voice conversion · OBS · self-hosted</text>
+  <rect x="90" y="514" width="204" height="4" rx="2" fill="#c5f47b"/>
+</svg>
